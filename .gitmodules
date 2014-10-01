@@ -1,0 +1,4 @@
+[submodule "OpenSubdiv"]
+	path = OpenSubdiv
+	url = git://github.com/stopiccot/OpenSubdiv.git
+	branch = dev
