@@ -1,1 +1,0 @@
-cmake -DNO_OPENCL=1 -DNO_CLEW=1 -DNO_PTEX=1 -DNO_OMP=1 -DNO_TBB=1 -DNO_CUDA=1 -D"GLEW_LOCATION:string=C:\Users\stopiccot\Downloads\glew-1.11.0" -D"GLFW_LOCATION:string=C:\Users\stopiccot\Downloads\glfw-3.0.4.bin.WIN64" -G "Visual Studio 12 Win64" .
